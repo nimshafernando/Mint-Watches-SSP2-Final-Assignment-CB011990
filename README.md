@@ -2,7 +2,7 @@
 # Mint Watches Backend 🛠️
 
 **The Core Engine for a Seamless E-Commerce Experience**  
-
+This project was submitted as an university assignment thus the repo name is "Mint-Watches-SSP2-Final-Assignment-CB011990".
 Mint Watches Backend is built with Laravel, offering a robust and scalable infrastructure for managing data, business logic, and secure transactions. This backend powers both the customer-facing Flutter application and the admin panel, ensuring efficient e-commerce operations.
 
 ---
